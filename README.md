@@ -1,6 +1,6 @@
-# Webpack Starter
+# Todo List
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto Todo List / Lista de tareas en HTML, CSS y JavaScript.
 
 ### Notas: 
 Recuerden reconstruir los módulos de Node
